@@ -1,9 +1,9 @@
 ## Introduction
 
-## Association of salary with job titles
+## What is the job priority of developers
 
-## Which language 
+## What is the salary associated with developer type
 
-## Question3
+## Salary with language
 
 ## Conclusion
