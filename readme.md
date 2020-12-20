@@ -1,3 +1,5 @@
+This project conduct an analysis about Stack Overflow survey dataset to better understanding developer world. Further details can be found from this [blog post](https://vanducng.dev/2020/12/20/Stackoverflow-survey-insights/).
+
 # Installation
 To get project up and running, ensure below packages are installed:
 * Python 3.x
@@ -5,10 +7,12 @@ To get project up and running, ensure below packages are installed:
 * pandas==1.1.5
 * numpy==1.19.4
 * jupyter==1.0.0
+
+
 # Project motivation
 Im interested in Stackoverflow data from 2020 to answer the following questions:
 1. What are the top priorities of working as a developer professional?
-1. What are the top pay coding languages?
+1. What are the top paying coding languages?
 1. Understand the correlation between salary with developer type, year of experience?
 
 # File descriptions
